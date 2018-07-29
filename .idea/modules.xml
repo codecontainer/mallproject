@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mall-common/mall-common.iml" filepath="$PROJECT_DIR$/mall-common/mall-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-dao/mall-dao.iml" filepath="$PROJECT_DIR$/mall-dao/mall-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-manager-web/mall-manager-web.iml" filepath="$PROJECT_DIR$/mall-manager-web/mall-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-pojo/mall-pojo.iml" filepath="$PROJECT_DIR$/mall-pojo/mall-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-sellergoods-service/mall-sellergoods-service.iml" filepath="$PROJECT_DIR$/mall-sellergoods-service/mall-sellergoods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-sellergoods-service-interface/mall-sellergoods-service-interface.iml" filepath="$PROJECT_DIR$/mall-sellergoods-service-interface/mall-sellergoods-service-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mall-shop-web/mall-shop-web.iml" filepath="$PROJECT_DIR$/mall-shop-web/mall-shop-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mallproject.iml" filepath="$PROJECT_DIR$/mallproject.iml" />
+    </modules>
+  </component>
+</project>
