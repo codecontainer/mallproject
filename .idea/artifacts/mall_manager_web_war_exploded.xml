@@ -37,10 +37,11 @@
           <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.28" />
           <element id="library" level="project" name="Maven: javassist:javassist:3.11.0.GA" />
           <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.10" />
-          <element id="library" level="project" name="Maven: mall-sellergoods-service-interface:mall-sellergoods-service-interface:0.0.1-SNAPSHOT" />
-          <element id="library" level="project" name="Maven: com.mall:mall-pojo:0.0.1-SNAPSHOT" />
           <element id="archive" name="mall-sellergoods-service-interface-1.0-SNAPSHOT.jar">
             <element id="module-output" name="mall-sellergoods-service-interface" />
+          </element>
+          <element id="archive" name="mall-pojo-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="mall-pojo" />
           </element>
         </element>
       </element>
