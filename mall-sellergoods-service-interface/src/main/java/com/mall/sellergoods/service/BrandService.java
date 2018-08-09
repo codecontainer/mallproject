@@ -14,6 +14,11 @@ import java.util.List;
 public interface BrandService {
      List<TbBrand> findAll();
      PageResult findPage(int pageNum,int pageSize);
+     void add(TbBrand brand);
+     void update(TbBrand brand);
+     TbBrand findOne(Long id);
+     void delete(Long[] ids);
+     PageResult findPage(TbBrand brand ,int pageNum,int pageSize);
 
 
 }

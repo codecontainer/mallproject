@@ -12,6 +12,6 @@
 	<dubbo:application name="mall-sellergoods-service"/>
     <dubbo:registry address="zookeeper://192.168.25.128:2181"/>
     <dubbo:annotation package="com.mall.sellergoods.service.impl" />
-   
+
    
 </beans>
